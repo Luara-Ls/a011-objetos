@@ -12,8 +12,8 @@ const objeto3 = {nome: "uva",
 preco: 6.50,
 disponibilidade: false}
 
-const sacolao2 = sacolao
+console.log(sacolao)
 
-console.log(sacolao2)
 sacolao.push(objeto1, objeto2, objeto3)
+
 console.log(sacolao)
