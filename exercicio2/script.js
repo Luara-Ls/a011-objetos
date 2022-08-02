@@ -13,3 +13,8 @@ const filme = {
 };
 
 // respostas aqui ⬇️
+
+console.log("Primeiro Ator:", filme.elenco [0]);
+console.log("Última Atriz:", filme.elenco [3]);
+console.log("Transmissões:", filme.transmissoesHoje);
+console.log(filme.transmissoesHoje [1]);
