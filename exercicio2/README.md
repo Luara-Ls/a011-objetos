@@ -1,6 +1,6 @@
 # Exercício 2
 
-Leia o código abaixo, e responda:
+Leia o código abaixo, e responda: 
 
 ```jsx
 const filme = {

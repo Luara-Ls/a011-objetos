@@ -28,3 +28,6 @@ d) para o objeto original, adicione o ataque **“Folha Navalha”,** com **45 d
 e) para a cópia, crie o ataque **“Jato de Água”**, com **40 de dano**, **100 de precisão**, e do tipo **“Água”**;
 
 f) Imprima os dois objetos no console.
+
+
+ 
